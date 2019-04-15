@@ -1,8 +1,8 @@
 # Anki-Video Player
-### Anki doesnt support video and audio tags, hence it plays the source files using external players.
-### Using a plugin code [jPlayer](https://github.com/jplayer/jPlayer/edit/master/README.md) we can play video and audio files in the flash card itself.
-### You can see the sample apkg file which I added with the note type anki-videoplayer.
-### Import the apkg file add video files in field as required.
+* Anki doesnt support video and audio tags, hence it plays the source files using external players.
+* Using a plugin code [jPlayer](https://github.com/jplayer/jPlayer/edit/master/README.md) we can play video and audio files in the flash card itself.
+* You can see the sample apkg file which I added with the note type anki-videoplayer.
+* Import the apkg file add video files in field as required. (Works in Linux and Mobile)
 
 # [jPlayer](http://jplayer.org/) : HTML5 Audio & Video for [jQuery](http://jquery.com/)
 
