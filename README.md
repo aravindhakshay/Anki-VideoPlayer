@@ -24,6 +24,6 @@
 _(*) Optional counterpart formats to increase HTML5 cross-browser support._
 
 ## Author for jPlayer:
-Mark J Panaghiston [@thepag](http://twitter.com/thepag)
-[happyworm.com](http://happyworm.com/)
-[Github-jPlayer](https://github.com/jplayer/jPlayer/edit/master/README.md)
+* Mark J Panaghiston [@thepag](http://twitter.com/thepag)
+* [happyworm.com](http://happyworm.com/)
+* [Github-jPlayer](https://github.com/jplayer/jPlayer/edit/master/README.md)
