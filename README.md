@@ -23,14 +23,7 @@
 
 _(*) Optional counterpart formats to increase HTML5 cross-browser support._
 
-## License
-[jPlayer](http://jplayer.org/) is licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-## More information:
-* [jPlayer.org](http://jplayer.org/)
-* [Quick Start Guide](http://www.jplayer.org/latest/quick-start-guide/)
-* [Developer Guide and API Reference](http://www.jplayer.org/latest/developer-guide/)
-
 ## Author for jPlayer:
 Mark J Panaghiston [@thepag](http://twitter.com/thepag)
 [happyworm.com](http://happyworm.com/)
+[Github-jPlayer](https://github.com/jplayer/jPlayer/edit/master/README.md)
